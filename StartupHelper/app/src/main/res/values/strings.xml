@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StatupHelper</string>
+    <string name="startupcost_cost">창업비용</string>
+    <string name="startupcost_AvgMonSal">월 평균 매출액</string>
+    <string name="startupcost_WidthMonSal">1평당 월평균 매출액</string>
+    <string name="startupcost_CountStore">매장 수</string>
+</resources>
